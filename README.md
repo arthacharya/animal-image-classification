@@ -10,6 +10,7 @@ This repository contains a Jupyter Notebook (`Animal_Image_Classification.ipynb`
 - [Evaluation](#evaluation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
+- [Dataset](#dataset)
 
 ## Introduction
 The goal of this project is to classify images of animals into different categories using a machine learning model. The notebook walks through the entire process, from loading and preprocessing the data to training and evaluating the model.
@@ -60,6 +61,9 @@ The following Python libraries are required to run the notebook:
 - Matplotlib
 - OpenCV
 - Scikit-learn
+
+## Dataset Link
+https://drive.google.com/file/d/14p1ekDW2YKqEY1kUufKjyJJTvlKVpEJZ/view?usp=sharing
 
 You can install the dependencies using pip:
 ```bash
