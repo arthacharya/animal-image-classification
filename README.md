@@ -16,7 +16,7 @@ This repository contains a Jupyter Notebook (`Animal_Image_Classification.ipynb`
 The goal of this project is to classify images of animals into different categories using a machine learning model. The notebook walks through the entire process, from loading and preprocessing the data to training and evaluating the model.
 
 ## Dataset
-The dataset used in this project is located in the `/Users/arthacharya/Downloads/animal_10/raw-img` directory. It contains images of various animals, each categorized into folders named after the animal (e.g., `dog`, `cat`, `horse`, etc.). The dataset includes images of the following animals:
+The dataset used in this project can be accessed [here](https://drive.google.com/file/d/14p1ekDW2YKqEY1kUufKjyJJTvlKVpEJZ/view?usp=sharing). It contains images of various animals, each categorized into folders named after the animal (e.g., `dog`, `cat`, `horse`, etc.). The dataset includes images of the following animals:
 - Dog
 - Horse
 - Elephant
