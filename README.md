@@ -10,7 +10,6 @@ This repository contains a Jupyter Notebook (`Animal_Image_Classification.ipynb`
 - [Evaluation](#evaluation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Introduction
 The goal of this project is to classify images of animals into different categories using a machine learning model. The notebook walks through the entire process, from loading and preprocessing the data to training and evaluating the model.
